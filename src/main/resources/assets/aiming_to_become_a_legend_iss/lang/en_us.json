@@ -1,0 +1,12 @@
+{
+  "command.aiming_to_become_a_legend_iss.status.header": "=== Aiming to become a legend: ISS Bonus Stats ===",
+  "command.aiming_to_become_a_legend_iss.status.tier": "Legend Tier: %s",
+  "command.aiming_to_become_a_legend_iss.status.mana_regen": "  Mana Regen: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.spell_power": "  Spell Power: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.max_mana": "  Max Mana: +%s",
+  "command.aiming_to_become_a_legend_iss.status.cooldown_reduction": "  Cooldown Reduction: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.cast_time_reduction": "  Cast Time Reduction: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.spell_resist": "  Spell Resist: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.iss_missing": "Note: Iron's Spells 'n Spellbooks is not detected; attributes are waiting to be applied once installed.",
+  "command.aiming_to_become_a_legend_iss.sync.success": "Aiming to become a legend: ISS bonuses synchronized successfully for %s."
+}

@@ -1,0 +1,12 @@
+{
+  "command.aiming_to_become_a_legend_iss.status.header": "=== Aiming to become a legend: ISS 魔法強化ステータス ===",
+  "command.aiming_to_become_a_legend_iss.status.tier": "伝説段階 (Tier): %s",
+  "command.aiming_to_become_a_legend_iss.status.mana_regen": "  マナ再生: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.spell_power": "  魔法威力: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.max_mana": "  最大マナ: +%s",
+  "command.aiming_to_become_a_legend_iss.status.cooldown_reduction": "  クールダウン短縮: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.cast_time_reduction": "  詠唱時間短縮: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.spell_resist": "  魔法耐性: +%s%%",
+  "command.aiming_to_become_a_legend_iss.status.iss_missing": "※注意: Iron's Spells 'n Spellbooks が検出されませんでした。MOD導入後に自動適用されます。",
+  "command.aiming_to_become_a_legend_iss.sync.success": "%s の Aiming to become a legend: ISS 魔法ボーナスを正常に再同期しました。"
+}
